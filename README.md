@@ -12,7 +12,7 @@
 
 ## 📌 Fitur
 
-| Vektor | Layer | Butuh Root | Butuh Lib | Deskripsi |
+| Vektor | Layer | Perlu Root | Perlu Lib | Deskripsi |
 |---|---|---|---|---|
 | `syn`     | L4 | ✅ | scapy | TCP SYN flood + source spoof |
 | `udp`     | L4 | ✅ | scapy | UDP flood + source spoof |
