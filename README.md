@@ -31,6 +31,6 @@
 ### Linux / Kali / Ubuntu / Debian
 
 ```bash
-git clone https://github.com/USERNAME/mfx-blackhat.git && cd mfx-blackhat && chmod +x install.sh && ./install.sh
+git clone https://github.com/mannforcex-cell/DDOS-brader.git && cd mfx-blackhat && chmod +x install.sh && ./install.sh
 
 sudo python3 DdosFkootbrader.py -A <TARGET_IP> P 80.443 T 500 -M mix -D 60 -X
